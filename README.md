@@ -20,3 +20,4 @@ How to run: (Basics)
 6. ng serve -o //command
 7. RUN :)
 
+Switch your branch to master to download the project
